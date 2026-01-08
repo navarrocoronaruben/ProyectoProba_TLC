@@ -14,11 +14,13 @@ Rosas Lezama Carlos
 # Requisitos del Sistema
 Para ejecutar esta aplicación, necesitas tener instalado Python 3.x y las siguientes librerías:
 
-Tkinter: Suele venir preinstalado con Python (es el motor de la interfaz).
+Las dependencias externas requeridas son:
 
-NumPy: Para el manejo de vectores y generación de números aleatorios.
+numpy: Para operaciones matemáticas y manejo de arrays.
 
-Matplotlib: Para la generación de los gráficos.
+matplotlib: Para la generación de gráficas (onda y espectrograma).
+
+tkinter: Para la interfaz gráfica de usuario (incluido generalmente con Python).
 
 # Instalacion
 Primero, descarga o clona el repositorio desde GitHub y accede a la carpeta del proyecto.
