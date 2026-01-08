@@ -23,11 +23,16 @@ Matplotlib: Para la generación de los gráficos.
 # Instalacion
 Primero, descarga o clona el repositorio desde GitHub y accede a la carpeta del proyecto.
 
+
 De manera opcional, puedes crear un entorno virtual de Python para aislar las dependencias del proyecto. Una vez creado, actívalo según tu sistema operativo.
 python -m venv venv
+
 Windows
+
 venv\Scripts\activate
+
 Linux/Mac
+
 source venv/bin/activate
 
 Instala las librerías necesarias para ejecutar el programa, principalmente NumPy y Matplotlib. La librería Tkinter viene incluida por defecto en la mayoría de las instalaciones estándar de Python. En sistemas Linux, puede ser necesario instalarla manualmente desde el gestor de paquetes.
@@ -37,7 +42,8 @@ Finalmente, ejecuta el archivo principal del proyecto para iniciar la aplicació
 
 # Ejecución
 Pasos para la Ejecución
-Guardar el archivo: Asegúrate de que el código esté guardado en un archivo con extensión .py, por ejemplo: ProyectoProba.py.
+Guardar el archivo: Asegúrate de que el código esté guardado en un archivo con extensión .py, por ejemplo:
+ProyectoProba.py.
 
 Abrir la terminal: Navega hasta la carpeta donde guardaste el archivo.
 
